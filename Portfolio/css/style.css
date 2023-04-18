@@ -297,3 +297,89 @@ footer span:hover{
     font-size:30px;
     color:white;
 }
+
+/* CONTACT */
+
+/* GENERAL */
+
+
+/* HEADING */
+
+.heading
+{
+    text-align:center;
+    margin-bottom:60px;
+}
+
+.heading h2
+{
+    margin-top:20px;
+    color:white;
+    text-transform:uppercase;
+    font-weight:bold;
+}
+
+/* FORMULAIRE */
+#contact
+{
+    background:#222f3e;
+}
+#contact-form
+{
+    font-size:20px;
+    padding: 40px;
+    border-radius:10px;
+    color:black;
+    background:white;
+}
+.red
+{
+    color:#d82c2e;
+}
+.blue
+{
+    color:#3c6382;
+    font-size:17px;
+}
+.form-control
+{
+    height:50px;
+    font-size:18px;
+}
+.comment
+{
+    color:#d82c2e;
+    font-style:italic;
+    font-size:15px;
+    height:25px;
+}
+#contact-form input[type=submit]
+{
+    margin: 40px auto 0;
+    display:block;
+}
+.button1
+{
+    border: 1px solid grey;
+    background:#3c6382;
+    color:white;
+    border-radius:5px;
+    width:100%;
+    font-weight:bold;
+    text-transform:uppercase;
+    padding:18px;
+    transition: all 0.3s ease-in 0s;
+}
+.button1:hover
+{
+    background:#222f3e;
+    border-color:white;
+    color:white;
+}
+.thank-you
+{
+    text-align:center;
+    margin-top:15px;
+    font-weight:bold;
+    font-size:22px;
+}
